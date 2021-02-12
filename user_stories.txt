@@ -1,0 +1,13 @@
+User Stories:
+
+As a player, I want to be able to play when I'm alone.
+As a player, I want to be able to play with my friend by sharing the same device.
+As a player, I want to be able to play with my friends by each using our own device.
+As a player, I want there to be measures that protect against cheating. 
+As a player, I want the game board to be colorful if I want or monotone if I want. 
+As a player, I want ads to be unobtrusive. 
+As a player, I want to have my own unique account so I can view and update my scores accross devices.  
+As a player, I want to compare my scores to those of my friends. 
+As a developer, I need a way for players to notify me of failures or suggestions. 
+As a development-financing backer, I need to be able to monitize the game using ads and/or in-app-purchases in order to pay for future development. 
+As a compliance consultant, I need the game to conform to app store guidelines so the game gets approved and published.
